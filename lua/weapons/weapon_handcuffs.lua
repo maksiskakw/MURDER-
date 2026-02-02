@@ -35,7 +35,7 @@ SWEP.DrawAmmo = false
 SWEP.DrawCrosshair = false
 SWEP.Slot = 3
 SWEP.SlotPos = 4
-SWEP.WorkWithFake = false
+SWEP.WorkWithFake = true
 
 SWEP.setlh = true
 SWEP.setrh = true
